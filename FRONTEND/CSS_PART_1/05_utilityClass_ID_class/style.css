@@ -1,0 +1,20 @@
+.main-header{
+    background-color:lightcyan;
+}
+#main-heading{
+    color: blueviolet;
+}
+
+.main-section{
+    background-color:burlywood;
+}
+
+
+#blog-heading1{
+    color: red;
+}
+
+.blog-content{
+    color: blueviolet;
+    font-weight: 400;
+ }
