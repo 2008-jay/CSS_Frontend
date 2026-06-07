@@ -1,0 +1,31 @@
+input[type = "text"]{
+     color : red;
+    background-color: lightblue;
+}
+
+
+
+
+
+
+a[href *="google"]{/*Contains value anywhere.....ex:contain google anywhere;*/
+    color:deepskyblue;
+}
+
+
+
+
+a[href ^="https"]{ /*Starts with value.....ex:start with "https"*/
+    color: red;
+}
+
+
+a[href $=".com"]{ /*Ends with value.....ex:end value of ".com"*/
+    color:purple;
+}
+
+
+
+input[type ^="t"]{
+    color:yellow;
+}
