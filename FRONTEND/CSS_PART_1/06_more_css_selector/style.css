@@ -1,0 +1,17 @@
+#main-heading{
+    color: red;
+}
+header {
+    color:blueviolet;
+}
+
+section.my-articles{
+    background-color: burlywood;
+}
+
+section.my-articles{
+    color:green;
+}
+section.my-articles h2+p{
+    color : orangered;
+}
