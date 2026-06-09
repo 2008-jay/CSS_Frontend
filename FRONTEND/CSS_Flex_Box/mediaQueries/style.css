@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;900;800&display=swap");
+body{
+    font-family:"Poppins", sans-serif;
+    background: lightcyan;
+}
+h1{
+    font-size: 10rem;
+}
+
+p{
+    font-size: 5rem;
+}
+@media (min-width:500px) and (max-width:768px){
+    body{
+        background: blueviolet;
+    }
+}
+
+@media (min-width:769px) and (max-width:1024px){
+    body{
+        background: lavender;
+    }
+}
+
