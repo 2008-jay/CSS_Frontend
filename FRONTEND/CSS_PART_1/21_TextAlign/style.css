@@ -1,0 +1,14 @@
+h1{
+    background: lavender;
+    width: 500px;
+    text-align: center;
+    padding: 10px 20px;
+}
+
+a{
+    width: 500px;
+    background: aquamarine;
+    display: inline-block;
+    text-align: center;
+    text-align: right;
+}
