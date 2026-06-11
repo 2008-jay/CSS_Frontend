@@ -1,0 +1,53 @@
+
+var firstName = "jay";
+
+console.log(firstName);
+
+var name;
+
+firstName ="jadhav";
+console.log(firstName);
+
+
+var age = 18;
+console.log(age)
+
+
+// ############### Rules for Naming variables #################
+
+// # 1 . You cannot start with number.
+
+// example :
+
+// var 1value = 10;  // (invalid)
+//  var value1 = 10 ; // (valid)
+//  console.log(value1);
+//  console.log(value1/2);  // division
+//  console.log(value1*2);  // Multiply
+//  console.log(value1+2);  // addition
+//  console.log(value1-2);  // Subtract
+//  console.log(value1 ** 2); // 10^2 --> 10 power 2 -> 100
+//  console.log(value1 ** 0.5); // 10 root 2 --> 3.
+
+// # 2 . You can use only underscore _ or dollar Symbol
+//      from special Symbol only this are valid.
+
+//  firstname_ = "abc";
+//  _firstname = "abc";
+
+//  firstname$ = "absd";
+//  $firstname = "adaaw";
+
+// # 3 . You can use Space in between variable declaration.
+
+// first Name = "Yatin"; // Invalid
+
+// Instead We can Do is that :
+
+// var first_name = "Yatin"  // Snake Case Writing.
+// var firstName = "Siddesh"; // Camel Case Writing.
+
+// ########### JS Naming Convention for Variables ##########
+
+// Naming Convention :
+// - Start with small letter and use CamelCase.
