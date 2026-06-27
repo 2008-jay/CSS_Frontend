@@ -1,0 +1,33 @@
+
+
+/* :not(p){
+    color: red;
+} */
+
+/* body header :not(.fancy){
+  color :aquamarine;
+} */
+
+div:empty{
+    background-color: red;
+    border: 5px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+/* root ==> which is html */
+/*
+Specificity of root > html 
+eg . class > element 
+*/
+
+:root{
+    background:black;
+    color:white;
+}
+
+html{
+    background :red;
+    color: white;
+
+}
